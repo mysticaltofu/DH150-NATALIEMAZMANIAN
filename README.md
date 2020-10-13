@@ -48,3 +48,37 @@ Heuristics | Evaluations
 #8: Aesthetic and minimalist design | Content
 #9: Help users recognize, diagnose, and recover from errors | Content
 #10: Help and documentation | Content
+
+  
+
+## Website 2: Ararat-Eskijian Museum
+
+[Ararat-Eskijian Museum Website](https://www.ararat-eskijian-museum.com/)
+
+Home page (multiple screenshots show entirity):  
+  
+<img src="./MuseumJurassicTechnology.png" width="88%">   
+
+### Brief Description of the Ararat-Eskijian Museum Website:  
+The Museum of Jurassic Technology is one of the most peculiar places I have ever been. The museum itself feels like a fever dream; and to an extent, the website does as well. The website opens to a home page with very little information aside from the name of the museum, the museum's logo, a quote, and an announcement regarding COVID-19. Clicking on the logo leads to a website arragned in a skeumorphic fashion, looking like a gallery itself.  Relevant visitor information, as well as exhibit information, can be found on subpages which can be arrived at by clicking on the corresponding image.
+
+  
+
+### Overall Evalation of the Ararat-Eskijian Museum Website:  
+The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.   
+  
+The following chart separately analyzes each heuristic, along with a severity rating from 1-3 (1 = aesthetic problem only, 2 = minor usability problem, 3 = major usability problem: important to fix/top priority).  
+
+
+Heuristics | Evaluations
+------------ | -------------
+#1: Visibility of system status | Content in the first column
+#2: Match between system and the real world | Content in the second column
+#3: User control and freedom | Content
+#4: Consistency and standards | Content
+#5: Error prevention | Content
+#6: Recognition rather than recall | Content
+#7: Flexibility and efficiency of use | Content
+#8: Aesthetic and minimalist design | Content
+#9: Help users recognize, diagnose, and recover from errors | Content
+#10: Help and documentation | Content
