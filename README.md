@@ -2,7 +2,9 @@
 ## Natalie Mazmanian 
 ### Course: Digital Humanities 150 
 
-Project Description: Designing with the theme of the well-being of middle-aged women in mind, I turned for inspiration to two of the most prominent middle-aged women in my own life: my mother, Nora, and her close friend, Maggie.  Maggie is the director of the Ararat-Eskijian Museum, a museum in Los Angeles which "aims to enrich, inspire and educate the [Armenian] community through the display of cultural artifacts, educational programs, and research archives that  share the history and heritage of the Armenian people."  Over the past few years, my mother has continually volunteered at the museum, and now serves as its treasurer.
+### General Project Description:   
+
+Designing with the theme of the well-being of middle-aged women in mind, I turned for inspiration to two of the most prominent middle-aged women in my own life: my mother, Nora, and her close friend, Maggie.  Maggie is the director of the Ararat-Eskijian Museum, a museum in Los Angeles which "aims to enrich, inspire and educate the [Armenian] community through the display of cultural artifacts, educational programs, and research archives that  share the history and heritage of the Armenian people."  Over the past few years, my mother has continually volunteered at the museum, and now serves as its treasurer.
 
 You might be wondering: how does a niche museum have anything to do with the well-being of middle-aged women?<br/>
 And to that I say:
@@ -23,7 +25,7 @@ The Museum of Jurassic Technology is one of the most peculiar places I have ever
   
 
 ### Overall Evalation of The Museum of Jurassic Technology Website:  
-The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.  
+The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.   
 The following chart separately analyzes each heuristic, along with a severity rating from 1-3 (1 = aesthetic problem only, 2 = minor usability problem, 3 = major usability problem: important to fix/top priority).  
 
 
