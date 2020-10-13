@@ -46,7 +46,8 @@ Heuristics | Evaluations
 #6: Recognition rather than recall | Content
 #7: Flexibility and efficiency of use | Content
 #8: Aesthetic and minimalist design | Content
-#9: Help users recognize, diagnose, and recover from errors | Content
+#9: Help users recognize, diagnose, and  
+recover from errors | Content
 #10: Help and documentation | Content
 
   
@@ -83,5 +84,6 @@ Heuristics | Evaluations
 #6: Recognition rather than recall | Content
 #7: Flexibility and efficiency of use | Content
 #8: Aesthetic and minimalist design | Content
-#9: Help users recognize, diagnose, and recover from errors | Content
+#9: Help users recognize, diagnose, and  
+recover from errors | Content
 #10: Help and documentation | Content
