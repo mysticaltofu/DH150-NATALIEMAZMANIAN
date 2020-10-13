@@ -1,4 +1,4 @@
-# A Heuristic Evaluation of the Websites of Small Museums
+# :classical_building: In Support of Small Museums
 ## Natalie Mazmanian 
 ### :book: Course: Digital Humanities 150 
 
