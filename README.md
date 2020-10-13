@@ -11,7 +11,7 @@ And to that I say:
 1. As people grow older, they tend to focus on what is most important. Perserving one's cultural heritage is a core value for many people, including my mother (and me!).
 2. Many middle-aged women are mothers to adult children. As duties of motherhood subside, volunteering/museum-going in general is a wonderful (and research-backed) strategy to stay active within one's community. Staying active and social is directly linked to one's mental well-being.
 
-Now that you know why we're doing this, it's time to tell you what we're doing. I'm going to heuristically evaluate two museum websites to determine how the design could have better been executed. More accessible, enjoyable, and useful websites will likely encourage more women (and everyone else) to visit and volunteer at small museums.
+Now that you know why we're doing this, it's time to tell you what we're doing. I'm going to heuristically evaluate two museum websites to determine how the design could have better been executed. I will be referncing the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) from NN/g.  More accessible, enjoyable, and useful websites will likely encourage more women (and everyone else) to visit and volunteer at small museums.
 
 ## Website 1: The Museum of Jurassic Technology
 
@@ -38,5 +38,13 @@ The following chart separately analyzes each heuristic, along with a severity ra
 
 Heuristics | Evaluations
 ------------ | -------------
-#1: Visibility of system status | #1: Visibility of system status #1: Visibility of system status #1: Visibility of system status #1: Visibility of system status
-Content in the first column | Content in the second column
+#1: Visibility of system status | Content in the first column
+#2: Match between system and the real world | Content in the second column
+#3: User control and freedom | Content
+#4: Consistency and standards | Content
+#5: Error prevention | Content
+#6: Recognition rather than recall | Content
+#7: Flexibility and efficiency of use | Content
+#8: Aesthetic and minimalist design | Content
+#9: Help users recognize, diagnose, and recover from errors | Content
+#10: Help and documentation | Content
