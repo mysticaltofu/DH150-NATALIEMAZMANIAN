@@ -17,7 +17,7 @@ Now that you know why we're doing this, it's time to tell you what we're doing. 
 
 [The Museum of Jurassic Technology Website](http://mjt.org)
 
-Home page:
+Home page:  
 <img src="./MuseumJurassicTechnology.png" width="88%">  
 After clicking on the central image:
 <img src="./mjtGallery.png" width="88%">
