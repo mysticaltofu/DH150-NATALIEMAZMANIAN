@@ -38,16 +38,16 @@ The following chart separately analyzes each heuristic, along with a severity ra
 
 Heuristic | Evaluation | Severity
 ------------ | ------------- | -------------
-#1: Visibility of system status | :-1: It is hard to determine the visibility of system status when hovering over the central logo/image. This poses a problem, as clicking on this graphic is what allows the user to advance to the actual relevant portion of the website.  :+1: When hovering over the graphic, some indication should tell the user that there is a clickable action — perhaps a change in color could ensure better visibility of system status. | 3
+#1: Visibility of system status | :-1: It is hard to determine the visibility of system status when hovering over the central logo/image. This poses a problem, as clicking on this graphic is what allows the user to advance to the actual relevant portion of the website. <br> :wrench: When hovering over the graphic, some indication should tell the user that there is a clickable action — perhaps a change in color could ensure better visibility of system status. | 2
 #2: Match between system and the real world | Content in the second column | 3
 #3: User control and freedom | Content | 3
 #4: Consistency and standards | Content | 3
 #5: Error prevention | Content | 3
 #6: Recognition rather than recall | Content | 3
 #7: Flexibility and efficiency of use | Content | 3
-#8: Aesthetic and minimalist design | Content | 3
+#8: Aesthetic and minimalist design | :-1: Take one look at this website and you will know that very little time was spent on ensuring a pleasurable visual interface. Not only is the entire website aesthetically outdated, but much information is presented that is not relevant to the user's goal at certain points of traversing the website.  For example, the quote on the landing page of the website distracts from more relevant information. <br> :wrench: I'm not suggesting that there be no quotes, but placing less important information on subpages could aid in a more cohesive design. Not to mention, a complete revamp of the look of the site would certainly increase usability from a visceral aesthetic viewpoint. | 3
 #9: Help users recognize, diagnose, and recover from errors | Content | 3
-#10: Help and documentation | Content | 3  
+#10: Help and documentation | No help and documentation exists, although the site could benefit from it. | 3  
 
   
   
@@ -76,13 +76,13 @@ The following chart separately analyzes each heuristic, along with a severity ra
 
 Heuristic | Evaluation | Severity
 ------------ | ------------- | -------------
-#1: Visibility of system status | Content in the first column | 3
+#1: Visibility of system status | :-1: When hovering over different clickable elements on the website, many of them indicate a possible action to keep the user informed. However, much of the hovering only produces a very slight color change, imperceptible to many users who are not paying close attention (not to mention accessibilty issues).  <br> :wrench: A more contrasting color can help increase system status visibility and aid in accessibility. | 2
 #2: Match between system and the real world | Content in the second column | 3
 #3: User control and freedom | Content | 3
 #4: Consistency and standards | Content | 3
 #5: Error prevention | Content | 3
 #6: Recognition rather than recall | Content | 3
 #7: Flexibility and efficiency of use | Content | 3
-#8: Aesthetic and minimalist design | Content | 3
+#8: Aesthetic and minimalist design | :-1: There is a lot of competing information which distracts from what is most important: visiting times, upcoming speakers, and perhaps a link to learn more about the museum. The animations used on the photo gallery even distract from the images themselves.  <br> :wrench: A more streamlined approach, displaying only the aforementioned relevant information on the home page, could greatly improve the overall aesthetic. Particularly, the COVID-19 message should be much more succinct and typed in a more visible color. | 3
 #9: Help users recognize, diagnose, and recover from errors | Content | 3
-#10: Help and documentation | Content | 3  
+#10: Help and documentation | No help and documentation exists, although the site could benefit from it. | 3  
