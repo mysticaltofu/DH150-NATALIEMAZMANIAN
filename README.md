@@ -2,7 +2,7 @@
 ## Natalie Mazmanian 
 ### Course: Digital Humanities 150 
 
-### General Project Description:   
+#### General Project Description:   
 
 Designing with the theme of the well-being of middle-aged women in mind, I turned for inspiration to two of the most prominent middle-aged women in my own life: my mother, Nora, and her close friend, Maggie.  Maggie is the director of the Ararat-Eskijian Museum, a museum in Los Angeles which "aims to enrich, inspire and educate the [Armenian] community through the display of cultural artifacts, educational programs, and research archives that  share the history and heritage of the Armenian people."  Over the past few years, my mother has continually volunteered at the museum, and now serves as its treasurer.
 
