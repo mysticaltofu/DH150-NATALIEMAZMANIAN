@@ -38,7 +38,7 @@ The following chart separately analyzes each heuristic, along with a severity ra
 
 Heuristics | Evaluations
 ------------ | -------------
-#1: Visibility of system status | Content in the first column (3)
+#1: Visibility of system status | When a user hovers over a clickable signifier, one way of keeping users informed of what is going on includes perhaps changing the color of the text or providing some indicitation — MJT's website The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. (3)
 #2: Match between system and the real world | Content in the second column
 #3: User control and freedom | Content
 #4: Consistency and standards | Content
@@ -46,8 +46,7 @@ Heuristics | Evaluations
 #6: Recognition rather than recall | Content
 #7: Flexibility and efficiency of use | Content
 #8: Aesthetic and minimalist design | Content
-#9: Help users recognize, diagnose, and  
-recover from errors | Content
+#9: Help users recognize, diagnose, and recover from errors | Content
 #10: Help and documentation | Content
 
   
@@ -84,6 +83,5 @@ Heuristics | Evaluations
 #6: Recognition rather than recall | Content
 #7: Flexibility and efficiency of use | Content
 #8: Aesthetic and minimalist design | Content
-#9: Help users recognize, diagnose, and  
-recover from errors | Content
+#9: Help users recognize, diagnose, and recover from errors | Content
 #10: Help and documentation | Content
