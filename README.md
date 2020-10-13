@@ -19,7 +19,9 @@ Now that you know why we're doing this, it's time to tell you what we're doing. 
 
 Brief Description of The Museum of Jurassic Technology Website:  
 The Museum of Jurassic Technology is one of the most peculiar places I have ever been. The museum itself feels like a fever dream; and to an extent, the website does as well. The website opens to a home page with very little information aside from the name of the museum, the museum's logo, a quote, and an announcement regarding COVID-19. Clicking on the logo leads to a website arragned in a skeumorphic fashion, looking like a gallery itself.  Relevant visitor information, as well as exhibit information, can be found on subpages which can be arrived at by clicking on the corresponding image.
-<br/>
+
+<br/>  
+
 Overall Evalation of The Museum of Jurassic Technology Website:  
 The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.
 
