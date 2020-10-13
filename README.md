@@ -13,7 +13,7 @@ And to that I say:
 
 Now that you know why we're doing this, it's time to tell you what we're doing. I'm going to heuristically evaluate two museum websites to determine how the design could have better been executed. I will be referncing the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) from NN/g.  More accessible, enjoyable, and useful websites will likely encourage more women (and everyone else) to visit and volunteer at small museums.
 
-## Website 1: The Museum of Jurassic Technology :t-rex:
+## :t-rex: Website 1: The Museum of Jurassic Technology
 
 [The Museum of Jurassic Technology Website](http://mjt.org)
 
@@ -53,7 +53,7 @@ Heuristic | Evaluation | Severity
   
   
 
-## Website 2: Ararat-Eskijian Museum :armenia:
+## :armenia: Website 2: Ararat-Eskijian Museum
 
 [Ararat-Eskijian Museum Website](https://www.ararat-eskijian-museum.com/)
 
