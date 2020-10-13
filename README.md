@@ -38,7 +38,7 @@ The following chart separately analyzes each heuristic, along with a severity ra
 
 Heuristic | Evaluation | Severity
 ------------ | ------------- | -------------
-#1: Visibility of system status | :-1: It is hard to determine the visibility of system status when hovering over the central logo/image. This poses a problem, as clicking on this graphic is what allows the user to advance to the actual relevant portion of the website. <br> :wrench: When hovering over the graphic, some indication should tell the user that there is a clickable action — perhaps a change in color could ensure better visibility of system status. | 2
+#1: Visibility of system status | :-1: It is hard to determine the visibility of system status when hovering over the central logo/image. This poses a problem, as clicking on this graphic is what allows the user to advance to the actual relevant portion of the website. <br> :wrench: When hovering over the graphic, some indication should tell the user that there is a clickable action.  For example, a change in color could ensure better visibility of system status. | 2
 #2: Match between system and the real world | Content in the second column | 3
 #3: User control and freedom | Content | 3
 #4: Consistency and standards | Content | 3
