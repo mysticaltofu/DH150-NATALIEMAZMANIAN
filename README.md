@@ -26,7 +26,7 @@ The Museum of Jurassic Technology is one of the most peculiar places I have ever
 The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.
 
 
-First Header | Second Header
+Heuristics | Evaluations
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+#1: Visibility of system status | #1: Visibility of system status #1: Visibility of system status #1: Visibility of system status #1: Visibility of system status
 Content in the first column | Content in the second column
