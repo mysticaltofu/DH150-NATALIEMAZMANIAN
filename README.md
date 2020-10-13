@@ -55,9 +55,11 @@ Heuristics | Evaluations
 
 [Ararat-Eskijian Museum Website](https://www.ararat-eskijian-museum.com/)
 
-Home page (multiple screenshots show entirity):  
+Home page (multiple screenshots show majority of home page):  
   
-<img src="./MuseumJurassicTechnology.png" width="88%">   
+<img src="./ararat1.png" width="88%">   
+<img src="./ararat2.png" width="88%">   
+<img src="./ararat3.png" width="88%">   
 
 ### Brief Description of the Ararat-Eskijian Museum Website:  
 The Museum of Jurassic Technology is one of the most peculiar places I have ever been. The museum itself feels like a fever dream; and to an extent, the website does as well. The website opens to a home page with very little information aside from the name of the museum, the museum's logo, a quote, and an announcement regarding COVID-19. Clicking on the logo leads to a website arragned in a skeumorphic fashion, looking like a gallery itself.  Relevant visitor information, as well as exhibit information, can be found on subpages which can be arrived at by clicking on the corresponding image.
