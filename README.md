@@ -36,18 +36,18 @@ The archaic aesthetic of the website and poor color accessibility contributes to
 The following chart separately analyzes each heuristic, along with a severity rating from 1-3 (1 = aesthetic problem only, 2 = minor usability problem, 3 = major usability problem: important to fix/top priority).  
 
 
-Heuristics | Evaluations
------------- | -------------
-#1: Visibility of system status | When a user hovers over a clickable signifier, one way of keeping users informed of what is going on includes perhaps changing the color of the text or providing some indicitation — MJT's website The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. (3)
-#2: Match between system and the real world | Content in the second column
-#3: User control and freedom | Content
-#4: Consistency and standards | Content
-#5: Error prevention | Content
-#6: Recognition rather than recall | Content
-#7: Flexibility and efficiency of use | Content
-#8: Aesthetic and minimalist design | Content
-#9: Help users recognize, diagnose, and recover from errors | Content
-#10: Help and documentation | Content
+Heuristic | Evaluation | Severity
+------------ | ------------- | -------------
+#1: Visibility of system status | Content in the first column | 3
+#2: Match between system and the real world | Content in the second column | 3
+#3: User control and freedom | Content | 3
+#4: Consistency and standards | Content | 3
+#5: Error prevention | Content | 3
+#6: Recognition rather than recall | Content | 3
+#7: Flexibility and efficiency of use | Content | 3
+#8: Aesthetic and minimalist design | Content | 3
+#9: Help users recognize, diagnose, and recover from errors | Content | 3
+#10: Help and documentation | Content | 3  
 
   
   
@@ -73,15 +73,15 @@ Although the aesthetic of the website is a bit outdated, the navigation bar as w
 The following chart separately analyzes each heuristic, along with a severity rating from 1-3 (1 = aesthetic problem only, 2 = minor usability problem, 3 = major usability problem: important to fix/top priority).  
 
 
-Heuristics | Evaluations
------------- | -------------
-#1: Visibility of system status | Content in the first column (3)
-#2: Match between system and the real world | Content in the second column
-#3: User control and freedom | Content
-#4: Consistency and standards | Content
-#5: Error prevention | Content
-#6: Recognition rather than recall | Content
-#7: Flexibility and efficiency of use | Content
-#8: Aesthetic and minimalist design | Content
-#9: Help users recognize, diagnose, and recover from errors | Content
-#10: Help and documentation | Content
+Heuristic | Evaluation | Severity
+------------ | ------------- | -------------
+#1: Visibility of system status | Content in the first column | 3
+#2: Match between system and the real world | Content in the second column | 3
+#3: User control and freedom | Content | 3
+#4: Consistency and standards | Content | 3
+#5: Error prevention | Content | 3
+#6: Recognition rather than recall | Content | 3
+#7: Flexibility and efficiency of use | Content | 3
+#8: Aesthetic and minimalist design | Content | 3
+#9: Help users recognize, diagnose, and recover from errors | Content | 3
+#10: Help and documentation | Content | 3  
