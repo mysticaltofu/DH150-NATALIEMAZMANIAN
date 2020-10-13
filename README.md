@@ -23,7 +23,8 @@ The Museum of Jurassic Technology is one of the most peculiar places I have ever
   
 
 ### Overall Evalation of The Museum of Jurassic Technology Website:  
-The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.
+The archaic aesthetic of the website and poor color accessibility contributes to an overall feeling of ... dustiness. The website evokes a mood of mysticism, as well as a lack of technological advancement. Overall, many heuristics of user interface design were overlooked. Although the website offers valuable information, it could be conveyed in a much more human-centered way.  
+The following chart separately analyzes each heuristic, along with a severity rating from 1-3 (1 = aesthetic problem only, 2 = minor usability problem, 3 = major usability problem: important to fix/top priority).  
 
 
 Heuristics | Evaluations
