@@ -17,7 +17,8 @@ I used participatory observation, as I, the observer, was interacting with the p
 [Here](https://docs.google.com/document/d/1sUVS1RdlKtE3BjtAF7w7e-kYue_q82idYW5RuKHb8IU/edit?usp=sharing) is the script.
 
 #### User data (Video of Interview)
-Here is the video interview.
+[Here](https://ucla.zoom.us/rec/share/2OdjwkEp-uUfgmE7DGwmb41EzwLFB3iA32Cen68nsgYgTif0O584BwvnfFulA96a.GmaWsIpwULBYN-ZY
+) is the video interview.
 
 #### Transcript
 Here is the transcript of the video interview.
