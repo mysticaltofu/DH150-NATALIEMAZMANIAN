@@ -5,10 +5,7 @@
 #### Project Description
 
 ##### Design Challenge
-What is the main activity your project would support the users’ needs?
-What is the basic need involved for that activity? (reference)
-What is(are) the traditional/current solution(s) to satisfy the needs?
-What is(are) the limitation(s) that possibly would be improved with (digital) technology?
+The main user need/activity that my project would support is aleviating the confusion of navigating small museums' websites to find relevant information regarding galleries, ticket information, and volunteering opportunities. The basic need involved for this activity includes enriching the user's knowledge regarding niche topics that may only be covered at small museums. It also encourgaes more visitation and volunteering at these small organizations. The current solution to satisfy these needs includes word of mouth/trial and error/unclear websites. The limitations that possibly would be improved with technology include having equal access to all people interested, not wasting time in trial and error, and deriving accurate information with ease.
 
 ##### Target Users
 The characteristics of the users include any individuals who are inclined to visit a museum. Demographically, the majority of users will likely be middle-aged/older adults. I predict that they will likely be educated, as they are using their free time to visit a museum. Users would utilize the museum website at home, likely before or after their trip. They could also engage with the website en route to the museum, seeking last minute ticket information. To complete the activity, users would probably engage with the website in a manner of trial and error until they find the relevant information to their task.
