@@ -19,6 +19,7 @@ I used participatory observation, as I, the observer, was interacting with the p
 #### User data (Video of Interview)
 [Here](https://ucla.zoom.us/rec/share/q6hUSyohYzFPRGR26hxKNYFGzrRjMUFhOCzmdfptfHy2QazHP0oh2gvMPz_BltjL.7bhGKg6rYYM76_na?startTime=1604436341000
 ) is the video interview on the cloud (available for 90 days).
+
 [Here](https://drive.google.com/file/d/1AVEYqQ9iqInbleBhyjaaoLPfX4wQT4OO/view?usp=sharing) is the same video uploaded to Google Drive.
 
 #### Transcript
