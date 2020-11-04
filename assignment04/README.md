@@ -21,7 +21,7 @@ I used participatory observation, as I, the observer, was interacting with the p
 ) is the video interview.
 
 #### Transcript
-Here is the transcript of the video interview.
+[Here](https://docs.google.com/document/d/1boGKXbI9TZ6vE-wR1czMBLTKPMlSd_TDmJkwn42Vw9g/edit?usp=sharing) is the transcript of the video interview.
 
 #### Reflection
 Interviewing participants is actually something I quite enjoy. Getting to see how an individual interacts with an interface is not something that is usually observed, so I find it eye-opening to see how different people (particularly in different demographics) use the internet. I learned that some participants may elaborate a lot, and others may keep their answers more concise, so it is important to chunk a good amount of time to interview but also be prepared to end early. My original interview participant bailed last minute, so I also learned that it is important to have back ups. I also learned that Zoom takes double the amount of time to process on the cloud, so I should make sure I have enough time to compile my materials post interview. The participant had a lot of insightful comments, and hearing his perspective on what would make a website better was valuable.
