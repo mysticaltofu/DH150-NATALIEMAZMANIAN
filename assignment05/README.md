@@ -13,6 +13,7 @@ Tsdfjgs
 
 #### Persona 1: Ani
 <img src="Persona Ani.png">
+![GitHub Logo](/images/Persona Ani.png)
 
 #### Empathy Map 1: Ani
 
