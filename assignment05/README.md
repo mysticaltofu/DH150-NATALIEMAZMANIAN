@@ -13,9 +13,10 @@ Tsdfjgs
 
 #### Persona 1: Ani
 <img src="Persona Ani.png">
+
 ![GitHub Logo](/images/Persona Ani.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Persona%20Ani.png)
 
 #### Empathy Map 1: Ani
 
