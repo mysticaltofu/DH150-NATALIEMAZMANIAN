@@ -28,10 +28,10 @@ Ani decides to hire a new website designer that makes it easier for herself and 
 
 
 ### Persona 2: Tyler
-![Pesona Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Persona%20Tyler.png)
+![Pesona Tyler](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Persona%20Tyler.png)
 
 ### Empathy Map 2: Tyler
-![Empathy Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Tyler.png)
+![Empathy Tyler](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Tyler.png)
 
 ### Scenario 2: Tyler
 #### Why Tyler is using this product
@@ -41,5 +41,5 @@ In his ancient cultures class, Tyler is assigned a paper that focuses on Armenia
 After the museum hired a new website designer, Tyler finds that a new section is added to the website. It has compiled the most important artifacts, providing photos and short descriptions of each piece. Tyler can start his paper now. Tyler is able to glean relevant and unique information from the museum website that is not found on other sites like Wikipedia. His professor is impressed with his unique findings and he achieves an A on his paper.
 
 ### Journey Map 2: Tyler
-![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Tyler.png)
+![Journey Tyler](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Tyler.png)
 
