@@ -12,13 +12,12 @@ Tsdfjgs
 2. fsgjnlsl
 
 #### Persona 1: Ani
-<img src="Persona Ani.png">
-
-![GitHub Logo](/images/Persona Ani.png)
-
-![Image of Yaktocat](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Persona%20Ani.png)
+![Pesona Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Persona%20Ani.png)
 
 #### Empathy Map 1: Ani
+![Empathy Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Ani.png)
 
 #### Scenario 1: Ani
+
 #### Journey Map 1: Ani
+![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Ani.png)
