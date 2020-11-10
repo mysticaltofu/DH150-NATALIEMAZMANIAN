@@ -12,8 +12,7 @@ Tsdfjgs
 2. fsgjnlsl
 
 #### Persona 1: Ani
-<img src="./Persona Ani.jpg" width="88%">  
-![Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Ani.png)
+<img src="./Persona Ani.jpg">
 
 #### Empathy Map 1: Ani
 
