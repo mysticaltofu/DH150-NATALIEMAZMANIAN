@@ -59,9 +59,9 @@ Heuristic | Evaluation | Severity
 
 Home page (multiple screenshots show majority of home page):  
   
-<img src="./ararat1.png" width="88%">   
-<img src="./ararat2.png" width="88%">   
-<img src="./ararat3.png" width="88%">   
+![Ararat1](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/ararat1.png)
+![Ararat2](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/ararat2.png)
+![Ararat2](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/ararat3.png)
 
 ### Brief Description of the Ararat-Eskijian Museum Website:  
 The Ararat-Eskijian museum website boasts significantly more modern website design compared to the website of the Museum of Jurassic Technology. Relevant information regarding visiting hours is displayed at the very top of the screen, and a rotating image gallery welcomes the user. The navigation toolbar at the top of the website is split into relevant categories with appropriate drop down menus.  Below the image gallery, a COVID-19 message is written in orange text which is likely not accessible for many users, as it lacks contrast. Below that, there is an infographic regarding the latest speaker. The image seems to have just been placed there with no regard for formatting. The scroll bar seems to be pulled to certain resting points, not allowing the user to have full control.
