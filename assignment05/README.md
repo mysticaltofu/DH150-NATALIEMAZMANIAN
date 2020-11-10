@@ -12,7 +12,7 @@ Tsdfjgs
 2. fsgjnlsl
 
 #### Persona 1: Ani
-<img src="./Persona Ani.jpg">
+<img src="./Empathy Ani.png">
 
 #### Empathy Map 1: Ani
 
