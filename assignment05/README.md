@@ -17,6 +17,11 @@ UX Storytelling allows designers (and the people designers need to convince) to 
 ![Empathy Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Ani.png)
 
 ### Scenario 1: Ani
+#### Why Ani is using this product
+During her volunteer shift, a community member who came to the lecture laments that he only knew the event was happening due to word of mouth. Ani decides that she wants to improve the advertising process of lectures. She finds that working with the webiste designer is a frustrating experience as he only does the bare minimum in posting the advertising materials to the bottom of the home page.
+
+#### How Ani is using this product
+Ani decides to hire a new website designer that makes it easier for herself and the other volunteers to update the website themselves, and places the lecture advertisements in a more visible location. Ani feels hopeful as lecture attendance begins to increase. On top of that, more people are hearing about the museum, allowing Armenian history to be heard by more people in and out of the community.  
 
 ### Journey Map 1: Ani
 ![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Ani.png)
@@ -29,6 +34,11 @@ UX Storytelling allows designers (and the people designers need to convince) to 
 ![Empathy Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Tyler.png)
 
 ### Scenario 2: Tyler
+#### Why Tyler is using this product
+During her volunteer shift, a community member who came to the lecture laments that he only knew the event was happening due to word of mouth. Ani decides that she wants to improve the advertising process of lectures. She finds that working with the webiste designer is a frustrating experience as he only does the bare minimum in posting the advertising materials to the bottom of the home page.
+
+#### How Tyler is using this product
+Ani decides to hire a new website designer that makes it easier for herself and the other volunteers to update the website themselves, and places the lecture advertisements in a more visible location. Ani feels hopeful as lecture attendance begins to increase. On top of that, more people are hearing about the museum, allowing Armenian history to be heard by more people in and out of the community.  
 
 ### Journey Map 2: Tyler
 ![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Tyler.png)
