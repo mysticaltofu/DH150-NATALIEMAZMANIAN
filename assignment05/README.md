@@ -12,7 +12,7 @@ Tsdfjgs
 2. fsgjnlsl
 
 #### Persona 1: Ani
-<img src="./ararat1.png" width="88%">  
+<img src="./Persona Ani.jpg" width="88%">  
 #### Empathy Map 1: Ani
 
 #### Scenario 1: Ani
