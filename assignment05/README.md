@@ -35,10 +35,10 @@ Ani decides to hire a new website designer that makes it easier for herself and 
 
 ### Scenario 2: Tyler
 #### Why Tyler is using this product
-During her volunteer shift, a community member who came to the lecture laments that he only knew the event was happening due to word of mouth. Ani decides that she wants to improve the advertising process of lectures. She finds that working with the webiste designer is a frustrating experience as he only does the bare minimum in posting the advertising materials to the bottom of the home page.
+In his ancient cultures class, Tyler is assigned a paper that focuses on Armenian artifacts. He decides he wants to do research in person and finds the Ararat Eskijian museum. Due to the pandemic, Tyler learns that the museum is closed to all visitors. He attempts to find information about the artifacts on the website but cannot find any relevant information about specific artifacts.
 
 #### How Tyler is using this product
-Ani decides to hire a new website designer that makes it easier for herself and the other volunteers to update the website themselves, and places the lecture advertisements in a more visible location. Ani feels hopeful as lecture attendance begins to increase. On top of that, more people are hearing about the museum, allowing Armenian history to be heard by more people in and out of the community.  
+After the museum hired a new website designer, Tyler finds that a new section is added to the website. It has compiled the most important artifacts, providing photos and short descriptions of each piece. Tyler can start his paper now. Tyler is able to glean relevant and unique information from the museum website that is not found on other sites like Wikipedia. His professor is impressed with his unique findings and he achieves an A on his paper.
 
 ### Journey Map 2: Tyler
 ![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Tyler.png)
