@@ -23,6 +23,12 @@ During her volunteer shift, a community member who came to the lecture laments t
 #### How Ani is using this product
 Ani decides to hire a new website designer that makes it easier for herself and the other volunteers to update the website themselves, and places the lecture advertisements in a more visible location. Ani feels hopeful as lecture attendance begins to increase. On top of that, more people are hearing about the museum, allowing Armenian history to be heard by more people in and out of the community.  
 
+#### Ani's Context
+As a volunteer at a museum, Ani's context is improving community engagement and the overall attendance at the museum. She is passionate about the museum and also wants to do a good job for the museum director, who is her friend.
+
+#### Ani's Use Cases
+Ani has to update the information about the lecture each week, and the website designer is not very helpful. It would make more sense for her and the other volunteers if they were able to do this function themselves. It is also important that the advertisement be placed in a more visible area on the website.
+
 ### Journey Map 1: Ani
 ![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Ani.png)
 
@@ -39,6 +45,12 @@ In his ancient cultures class, Tyler is assigned a paper that focuses on Armenia
 
 #### How Tyler is using this product
 After the museum hired a new website designer, Tyler finds that a new section is added to the website. It has compiled the most important artifacts, providing photos and short descriptions of each piece. Tyler can start his paper now. Tyler is able to glean relevant and unique information from the museum website that is not found on other sites like Wikipedia. His professor is impressed with his unique findings and he achieves an A on his paper.
+
+#### Tyler's Context
+As a graduate student at UCLA, Tyler's context is succeeding in writing an impressive paper as well as graduating with good grades from his program overall. He is passionate about ancient cultures and wants to impress his advisor, who he looks up to.
+
+#### Tyler's Use Cases
+Tyler has to find information about Armenian artifacts before his paper is due in about two weeks. It would make sense for him to visit the museum, but unfortunately, COVID-19 has stopped him from being able to go. He needs access to the catalogue of artifacts in an online setting. Otherwise, he will not be able to utilize the museum for research.
 
 ### Journey Map 2: Tyler
 ![Journey Tyler](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Tyler.png)
