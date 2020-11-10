@@ -21,3 +21,16 @@ Tsdfjgs
 
 #### Journey Map 1: Ani
 ![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Ani.png)
+
+
+#### Persona 2: Tyler
+![Pesona Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Persona%20Tyler.png)
+
+#### Empathy Map 2: Tyler
+![Empathy Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Empathy%20Tyler.png)
+
+#### Scenario 2: Tyler
+
+#### Journey Map 2: Tyler
+![Journey Ani](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Journey%20Tyler.png)
+
