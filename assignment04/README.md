@@ -11,7 +11,7 @@ The main user need/activity that my project would support is aleviating the conf
 The characteristics of the users include any individuals who are inclined to visit a museum. Demographically, the majority of users will likely be middle-aged/older adults. I predict that they will likely be educated, as they are using their free time to visit a museum. Users would utilize the museum website at home, likely before or after their trip. They could also engage with the website en route to the museum, seeking last minute ticket information. To complete the activity, users would probably engage with the website in a manner of trial and error until they find the relevant information to their task.
 
 ##### Research Method
-I used participatory observation, as I, the observer, was interacting with the partipant herself. 
+I used participatory observation, as I, the observer, was interacting with the partipant himself. 
 
 #### Contextual Inquiry Guide (Script)
 [Here](https://docs.google.com/document/d/1sUVS1RdlKtE3BjtAF7w7e-kYue_q82idYW5RuKHb8IU/edit?usp=sharing) is the script.
