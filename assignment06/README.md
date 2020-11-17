@@ -3,14 +3,17 @@
 ### :book: Course: Digital Humanities 150 
 
 #### Overview
-Brief summary of user-research, persona and three+ features you wrote as usage scenario; The purpose of this low-fidelity prototyping
+Brief summary of user-research, persona and three+ features you wrote as usage scenario; 
+
+The purpose of low-fidelity prototyping here is to ensure that the new design flows I mocked up are actually intuitive to a user, before adding aesthetic elements. As a designer, it is easy to get caught up in your own design, as you are already familiar with where everything is. For this reason, it is important to engage in testing to ensure that the user experience is smooth and enjoyable.
+
 My prototype supports three tasks (consisting of multiple interactions each): 
-* Planning a visit to the museum (task 1)
-  1. Hours (subtask)
-  2. Tickets
-  3. Directions & Parking
-* Watching the live Zoom lecture (task 2)
-* Learning more about an artifact (task 3)
+1. Planning a visit to the museum (task 1)
+    * Hours (subtask)
+    * Tickets
+    * Directions & Parking
+2. Watching the live Zoom lecture (task 2)
+3. Learning more about an artifact (task 3)
 
 #### Wireframes / Wireflow
 
@@ -19,10 +22,12 @@ My prototype supports three tasks (consisting of multiple interactions each):
 ![Wireframe](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/museum%402x.png)
 
 #### Notes on Wireflow Testing
-Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
-pictures/video of the tester’s walkthrough pathway
+The tester successfully completed all the tasks. However, I noted that the beginning of my wireframe was a bit unclear, and it seemed that the tester leaned on the support of the wireflow arrows to decipher what he needed to do.
+
 [Here](https://drive.google.com/file/d/1PjZNH41Ohi1_u2hDbKeSaCgNS7tqdYhj/view?usp=sharing) is a video of the tester performing Task 1.
+
 [Here](https://drive.google.com/file/d/1spI63mRsSYo6AcolungG3nebc_6WXw5f/view?usp=sharing) is a video of the tester performing Task 2.
+
 [Here](https://drive.google.com/file/d/1LyGpoQhgf5fLfQj3ShRBYRFBtqzZNeER/view?usp=sharing) is a video of the tester performing Task 3.
 
 
