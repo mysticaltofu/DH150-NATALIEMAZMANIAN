@@ -5,12 +5,12 @@
 #### Overview
 Brief summary of user-research, persona and three+ features you wrote as usage scenario; The purpose of this low-fidelity prototyping
 My prototype supports three tasks (consisting of multiple interactions each): 
-* Planning a visit to the museum (task)
+* Planning a visit to the museum (task 1)
   1. Hours (subtask)
   2. Tickets
   3. Directions & Parking
-* Watching the live Zoom lecture
-* Learning more about an artifact
+* Watching the live Zoom lecture (task 2)
+* Learning more about an artifact (task 3)
 
 #### Wireframes / Wireflow
 
@@ -21,6 +21,9 @@ My prototype supports three tasks (consisting of multiple interactions each):
 #### Notes on Wireflow Testing
 Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
 pictures/video of the tester’s walkthrough pathway
+[Here](https://drive.google.com/file/d/1PjZNH41Ohi1_u2hDbKeSaCgNS7tqdYhj/view?usp=sharing) is a video of the tester performing Task 1.
+[Here](https://drive.google.com/file/d/1spI63mRsSYo6AcolungG3nebc_6WXw5f/view?usp=sharing) is a video of the tester performing Task 2.
+[Here](https://drive.google.com/file/d/1LyGpoQhgf5fLfQj3ShRBYRFBtqzZNeER/view?usp=sharing) is a video of the tester performing Task 3.
 
 
 #### Reflection
