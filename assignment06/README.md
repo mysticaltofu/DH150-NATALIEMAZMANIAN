@@ -13,7 +13,7 @@ My prototype supports three tasks (consisting of multiple interactions each):
 * Learning more about an artifact
 
 #### Wireframes / Wireflow
-
+![Wireframe](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/museum%402x.png)
 At least three distinctive wireframes (= sketches of the screen) that represent the user flow (the input and output of the system) 
 +1: Thoughtful content design including proper texts and button labels
 
