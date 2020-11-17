@@ -4,6 +4,13 @@
 
 #### Overview
 Brief summary of user-research, persona and three+ features you wrote as usage scenario; The purpose of this low-fidelity prototyping
+My prototype supports three tasks (consisting of multiple interactions each): 
+* Planning a visit to the museum (task)
+  1. Hours (subtask)
+  2. Tickets
+  3. Directions & Parking
+* Watching the live Zoom lecture
+* Learning more about an artifact
 
 #### Wireframes
 At least three distinctive wireframes (= sketches of the screen) that represent the user flow (the input and output of the system) 
