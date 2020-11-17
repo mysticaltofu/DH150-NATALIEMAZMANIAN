@@ -13,13 +13,10 @@ My prototype supports three tasks (consisting of multiple interactions each):
 * Learning more about an artifact
 
 #### Wireframes / Wireflow
-![Wireframe](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/museum%402x.png)
-At least three distinctive wireframes (= sketches of the screen) that represent the user flow (the input and output of the system) 
-+1: Thoughtful content design including proper texts and button labels
 
-At least one sequence of the user interaction flow was presented with wireframes and arrow_lines 
-+1: At least three features were presented via wireflow
-+1: Complete interaction sequences for all the possible choices and exit/cancel/back were clearly presented via wireflow
+[Here](https://whimsical.com/museum-BjJW4K46V4ArymBNd4Wv9D) is the wireframe/wireflow on Whimsical, and below is an image of the same thing:
+
+![Wireframe](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/museum%402x.png)
 
 #### Notes on Wireflow Testing
 Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
