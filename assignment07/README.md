@@ -35,10 +35,11 @@ This did not really work out very well, as the vertical text looked unorganized 
 [Here](https://drive.google.com/file/d/1AMr0NXTQpDUg_TLa4mrv2Nnvsce5Rgsi/view?usp=sharing) is the video of the impression test.
 
 #### Summary of Impression Test Results
-sdkfgdsjkfn
+Conducting the impression test was really valuable as I continue my design process moving forward. Ultimately, I learned that the website I have designed thus far gives a minimalistic, yet organized impression. It is of my concern that the site looks a bit too simple, so I was pleased to hear that it provided the necessary information while still having an attractive interace. However, I worry that my participant was just being nice to me, so I might get another opinion of a more harsh critic to determine if I should include more design elements. Overall, my tester concluded that the three main words he would use to describe the site are: informative, uncluttered, and pleasing.
 
 #### Accessibility Check: Color Contrast
 ![ColorContrast](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/colorContrast.png)
+The site meets accessibility WCAG2.0 AA level requirements.
 
 ![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
 ![CollectionCategories](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionCategories.png)
