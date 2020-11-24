@@ -2,3 +2,7 @@
 ![HomePhoto](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomePhoto.png)
 ![HomeCrossword](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeCrossword.png)
 ![HomeStaggered](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeStaggered.png)
+![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
+![CollectionCategories](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionCategories.png)
+![Lecture](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Lecture.png)
+![HoursAndTickets](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HoursAndTickets.png)
