@@ -38,7 +38,7 @@ This did not really work out very well, as the vertical text looked unorganized 
 sdkfgdsjkfn
 
 #### Accessibility Check: Color Contrast
-
+![ColorContrast](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/colorContrast.png)
 
 ![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
 ![CollectionCategories](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionCategories.png)
