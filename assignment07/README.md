@@ -29,6 +29,12 @@ This did not really work out very well, as the vertical text looked unorganized 
 
 ![HomeStaggered](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeStaggered.png)
 
+### Interface Design Decisions
+
+I decided to go with Helvetica for most of the body text, as it is easy to read and gives off a friendly vibe online. For headings, I chose the serif font Spectral to give an impression of refinement. As this is a museum website, I wanted it to feel academic and professional. I almost wanted to give a vintage vibe, perhaps suggesting that museums have been around longer than the internet has been, and therefore should be treated with respect.
+
+For color scheme, I pulled most of my inspiration from the Armenian carpets I featured on the home page. However, most of the website is black and off-white, as I prefer a minimalistic color pallete to let photos of museum artifacts stand out. The Armenian flag is red, blue, and orange: for this reason, I will be utilizing dark blue and shades of burgundy as sophisticated accent colors.
+
 ### Impression Test
 
 #### Video of Impression Test
@@ -37,8 +43,9 @@ This did not really work out very well, as the vertical text looked unorganized 
 #### Summary of Impression Test Results
 Conducting the impression test was really valuable as I continue my design process moving forward. Ultimately, I learned that the website I have designed thus far gives a minimalistic, yet organized impression. It is of my concern that the site looks a bit too simple, so I was pleased to hear that it provided the necessary information while still having an attractive interace. However, I worry that my participant was just being nice to me, so I might get another opinion of a more harsh critic to determine if I should include more design elements. Overall, my tester concluded that the three main words he would use to describe the site are: informative, uncluttered, and pleasing.
 
-#### Accessibility Check: Color Contrast
+### Accessibility Check: Color Contrast
 ![ColorContrast](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/colorContrast.png)
+
 The site meets accessibility WCAG2.0 AA level requirements.
 
 ![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
