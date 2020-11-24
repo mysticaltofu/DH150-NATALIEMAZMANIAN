@@ -31,8 +31,13 @@ This did not really work out very well, as the vertical text looked unorganized 
 
 ### Impression Test
 
+#### Video of Impression Test
 [Here](https://drive.google.com/file/d/1AMr0NXTQpDUg_TLa4mrv2Nnvsce5Rgsi/view?usp=sharing) is the video of the impression test.
 
+#### Summary of Impression Test Results
+sdkfgdsjkfn
+
+#### Accessibility Check: Color Contrast
 
 
 ![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
