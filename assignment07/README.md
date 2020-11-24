@@ -44,11 +44,25 @@ For color scheme, I pulled most of my inspiration from the Armenian carpets I fe
 Conducting the impression test was really valuable as I continue my design process moving forward. Ultimately, I learned that the website I have designed thus far gives a minimalistic, yet organized impression. It is of my concern that the site looks a bit too simple, so I was pleased to hear that it provided the necessary information while still having an attractive interace. However, I worry that my participant was just being nice to me, so I might get another opinion of a more harsh critic to determine if I should include more design elements. Overall, my tester concluded that the three main words he would use to describe the site are: informative, uncluttered, and pleasing.
 
 ### Accessibility Check: Color Contrast
+
+The site meets accessibility WCAG2.0 AA level requirements:
+
 ![ColorContrast](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/colorContrast.png)
 
-The site meets accessibility WCAG2.0 AA level requirements.
+### Three (Actually Four) Distinctive Screen Designs
+
+#### Collection Highlights: 
 
 ![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
+
+#### Collection Categories: 
+
 ![CollectionCategories](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionCategories.png)
+
+#### Lecture: 
+
 ![Lecture](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Lecture.png)
+
+#### Hours and Tickets: 
+
 ![HoursAndTickets](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HoursAndTickets.png)
