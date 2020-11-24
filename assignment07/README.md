@@ -11,19 +11,19 @@ I began designing with the idea of using Armenian carpets in mind, as they are v
 
 ![HomeCentered](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeCentered.png)
 
-###Trial :two:
+### Trial :two:
 
 Experimenting with different layouts, I attempted to feature one carpet and showcase it on the center of the page:
 
 ![HomePhoto](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomePhoto.png)
 
-###Trial :three:
+### Trial :three:
 
 Ultimately deciding that the design looked off balance and a bit too simple, I tried to do something more creative and experimented with a crossword design:
 
 ![HomeCrossword](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeCrossword.png)
 
-###Trial :four: - Final
+### Trial :four: - Final
 
 This did not really work out very well, as the vertical text looked unorganized and the images did not fit nicely around the crossed words. I changed my design one last time to feature a staircase-like layout of carpets to draw the readers eye downward and follow the text. I included "@ AEM" to emphasize that this is a museum, and not a travel agency, which the phrase "discover Armenia" might suggest:
 
