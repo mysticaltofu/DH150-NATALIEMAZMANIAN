@@ -25,7 +25,7 @@ Ultimately deciding that the design looked off balance and a bit too simple, I t
 
 ### Trial :four: - Final
 
-This did not really work out very well, as the vertical text looked unorganized and the images did not fit nicely around the crossed words. I changed my design one last time to feature a staircase-like layout of carpets to draw the readers eye downward and follow the text. I included "@ AEM" to emphasize that this is a museum, and not a travel agency, which the phrase "discover Armenia" might suggest:
+This did not really work out very well, as the vertical text looked unorganized and the images did not fit nicely around the crossed words. I changed my design one last time to feature a staircase-like layout of carpets to draw the readers eye downward and follow the text. I also included a pomegranate as the logo for the museum, as the pomegranate is a symbol of Armenia. I changed the museum title from Helvetica to Spectral to increase credibility. I included "@ AEM" to emphasize that this is a museum, and not a travel agency, which the phrase "discover Armenia" might suggest:
 
 ![HomeStaggered](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeStaggered.png)
 
