@@ -1,6 +1,10 @@
 # High Fidelity Prototype: Assignment 07
 ## Natalie Mazmanian :book: Course: Digital Humanities 150 
 
+### Description of Project: Purpose and Process
+the purpose and process of this prototyping phase (3-5 sentences)
+The purposes of interactive prototype are 1) to visualize the information and interactive component in the limited screen size, so you will learn how to systematically evaluate tradeoffs of alternative ways you can design a component of a system; 2) to validify the interaction flow that the user's choice will branch out. During this process you will analyze factors that influence the design of user input and feedback in an interactive system and narrow down your design into polished artefact by examining the possible design ideas. You will use the prototype to communicate and test with others; also to reflect on your design activities in exploring a design space.
+
 ### Home Page Design Variations
 
 Before settling on my final home page design, I went through a few iterations which are chronicled below.
@@ -49,20 +53,8 @@ The site meets accessibility WCAG2.0 AA level requirements:
 
 ![ColorContrast](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/colorContrast.png)
 
-### Three (Actually Four) Distinctive Screen Designs
+### Four Distinctive Screen Designs
 
-#### Collection Highlights: 
+The screen designs below feature the pages dedicated to Collection Highlights, Collection Categories, Lecture, and Hours and Tickets: 
 
-![CollectionHighlights](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionHighlights.png)
-
-#### Collection Categories: 
-
-![CollectionCategories](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/CollectionCategories.png)
-
-#### Lecture: 
-
-![Lecture](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/Lecture.png)
-
-#### Hours and Tickets: 
-
-![HoursAndTickets](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HoursAndTickets.png)
+![screenDesigns](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HoursAndTickets.png)
