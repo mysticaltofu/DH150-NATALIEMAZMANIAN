@@ -5,29 +5,38 @@
 the purpose and process of this prototyping phase (3-5 sentences)
 The purposes of interactive prototype are 1) to visualize the information and interactive component in the limited screen size, so you will learn how to systematically evaluate tradeoffs of alternative ways you can design a component of a system; 2) to validify the interaction flow that the user's choice will branch out. During this process you will analyze factors that influence the design of user input and feedback in an interactive system and narrow down your design into polished artefact by examining the possible design ideas. You will use the prototype to communicate and test with others; also to reflect on your design activities in exploring a design space.
 
+#### Three Supported Tasks
+My wireframe/wireflow supports three tasks (consisting of multiple interactions each): 
+1. Planning a visit to the museum (task 1)
+    * Hours (subtask)
+    * Tickets
+    * Directions & Parking
+2. Watching the live Zoom lecture (task 2)
+3. Learning more about an artifact (task 3)
+
 ### Home Page Design Variations
 
 Before settling on my final home page design, I went through a few iterations which are chronicled below.
 
-### Trial :one:
+#### Trial :one:
 
 I began designing with the idea of using Armenian carpets in mind, as they are visually appealing and could be used to draw the user in. At first, I began with a home page with typical centered text:
 
 ![HomeCentered](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeCentered.png)
 
-### Trial :two:
+#### Trial :two:
 
 Experimenting with different layouts, I attempted to feature one carpet and showcase it on the center of the page:
 
 ![HomePhoto](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomePhoto.png)
 
-### Trial :three:
+#### Trial :three:
 
 Ultimately deciding that the design looked off balance and a bit too simple, I tried to do something more creative and experimented with a crossword design:
 
 ![HomeCrossword](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HomeCrossword.png)
 
-### Trial :four: - Final
+#### Trial :four: - Final
 
 This did not really work out very well, as the vertical text looked unorganized and the images did not fit nicely around the crossed words. I changed my design one last time to feature a staircase-like layout of carpets to draw the readers eye downward and follow the text. I also included a pomegranate as the logo for the museum, as the pomegranate is a symbol of Armenia. I changed the museum title from Helvetica to Spectral to increase credibility. I included "@ AEM" to emphasize that this is a museum, and not a travel agency, which the phrase "discover Armenia" might suggest:
 
@@ -58,3 +67,23 @@ The site meets accessibility WCAG2.0 AA level requirements:
 The screen designs below feature the pages dedicated to Collection Highlights, Collection Categories, Lecture, and Hours and Tickets: 
 
 ![screenDesigns](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/ScreenDesigns.png)
+
+### Wireflow Diagram
+One image(diagram) with the wireflow with graphic design 
+Complete interaction sequences for the three features were clearly presented in the wireflow WITH screen designs 
+
+### Interactive Prototype
+
+Link to the interactive prototype
+The prototype provides interactions how to walk through three tasks in the full sequence of the task without dead-end
+
+### Cognitive Walkthrough
+
+[Here](https://docs.google.com/document/d/1WLbZ9mQWy3U9Ml3M-LVmMtyzhwAxJE89f64EDea4VBc/edit?usp=sharing) are the results of the cognitive walkthrough that was done with two of my classmates.
+
+Summary of findings 
+
+### Reflection
+
+Summary of the process, what went smoothly or differently from your expectation
+What you would change or design differently based on the feedback you got from the prototype testing. 
