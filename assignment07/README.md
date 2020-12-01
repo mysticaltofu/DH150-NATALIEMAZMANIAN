@@ -2,8 +2,7 @@
 ## Natalie Mazmanian :book: Course: Digital Humanities 150 
 
 ### Description of Project: Purpose and Process
-the purpose and process of this prototyping phase (3-5 sentences)
-The purposes of interactive prototype are 1) to visualize the information and interactive component in the limited screen size, so you will learn how to systematically evaluate tradeoffs of alternative ways you can design a component of a system; 2) to validify the interaction flow that the user's choice will branch out. During this process you will analyze factors that influence the design of user input and feedback in an interactive system and narrow down your design into polished artefact by examining the possible design ideas. You will use the prototype to communicate and test with others; also to reflect on your design activities in exploring a design space.
+The purpose of prototyping, in my opinion, is to get a feel for how your website will actually function, as well as how it will look visually. Prototyping is such an important step in the design process as it marks when everything is truly coming to fruition in a form similar to what the end user might end up with. This stage of the design process starts to solidify your idea without setting any decisions in stone. It is important to remain flexible throughout the prototyping process and iterate through multiple times after getting feedback from testers.  Prototyping is also useful in mapping out the sequence of actions that users will go through to achieve tasks/goals.  Prototypes are also wonderful tools to use when testing with participants before any software development work has been done.
 
 #### Three Supported Tasks
 My wireframe/wireflow supports three tasks (consisting of multiple interactions each): 
@@ -73,17 +72,16 @@ One image(diagram) with the wireflow with graphic design
 Complete interaction sequences for the three features were clearly presented in the wireflow WITH screen designs 
 
 ### Interactive Prototype
-
 Link to the interactive prototype
 The prototype provides interactions how to walk through three tasks in the full sequence of the task without dead-end
 
 ### Cognitive Walkthrough
-
+#### Results of Cognitive Walkthrough
 [Here](https://docs.google.com/document/d/1WLbZ9mQWy3U9Ml3M-LVmMtyzhwAxJE89f64EDea4VBc/edit?usp=sharing) are the results of the cognitive walkthrough that was done with two of my classmates.
 
-Summary of findings 
+#### Summary of Cognitive Walkthrough Findings
+The cognitive walkthrough helped me to realize that the navigation bar/menu is the main part of the website that helps the user understand where they are and where they could choose to navigate to while using the website. My participants noted that the flow of the website was easy to understand. They also said that it is cohesive and pleasing to look at. Getting positive feedback from my classmates was encouraging and very nice to hear after working on this project for the duration of the quarter. Overall, they only had positive comments, so I did lack constructive feedback.
 
 ### Reflection
-
 Summary of the process, what went smoothly or differently from your expectation
 What you would change or design differently based on the feedback you got from the prototype testing. 
