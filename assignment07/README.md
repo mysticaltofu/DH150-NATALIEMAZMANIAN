@@ -70,12 +70,8 @@ The screen designs below feature the pages dedicated to Collection Highlights, C
 ### Wireflow Diagram
 One image(diagram) with the wireflow with graphic design 
 
-Complete interaction sequences for the three features were clearly presented in the wireflow WITH screen designs 
-
 ### Interactive Prototype
-Link to the interactive prototype
-
-The prototype provides interactions how to walk through three tasks in the full sequence of the task without dead-end
+[Here](https://www.figma.com/proto/OS0a1fEZjVzmyNJ8YxQWeY/AEM-Shared?node-id=6%3A27&viewport=354%2C-776%2C0.35040798783302307&scaling=scale-down) is the interactive prototype.
 
 ### Cognitive Walkthrough
 #### Results of Cognitive Walkthrough
