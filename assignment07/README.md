@@ -69,10 +69,12 @@ The screen designs below feature the pages dedicated to Collection Highlights, C
 
 ### Wireflow Diagram
 One image(diagram) with the wireflow with graphic design 
+
 Complete interaction sequences for the three features were clearly presented in the wireflow WITH screen designs 
 
 ### Interactive Prototype
 Link to the interactive prototype
+
 The prototype provides interactions how to walk through three tasks in the full sequence of the task without dead-end
 
 ### Cognitive Walkthrough
@@ -83,5 +85,4 @@ The prototype provides interactions how to walk through three tasks in the full 
 The cognitive walkthrough helped me to realize that the navigation bar/menu is the main part of the website that helps the user understand where they are and where they could choose to navigate to while using the website. My participants noted that the flow of the website was easy to understand. They also said that it is cohesive and pleasing to look at. Getting positive feedback from my classmates was encouraging and very nice to hear after working on this project for the duration of the quarter. Overall, they only had positive comments, so I did lack constructive feedback.
 
 ### Reflection
-Summary of the process, what went smoothly or differently from your expectation
-What you would change or design differently based on the feedback you got from the prototype testing. 
+Whenever I reflect on user testing, I find myself remarking that I enjoyed it more than I thought I would. Conducting the impression test as well as the cognitive walkthrough was a fun and also satisfying experience, as I finally got to share my work with others. I honestly wish I got more constructive feedback so I could have used my participants insights to improve my website, but I appreciate that they had positive things to say, of course. It went very smoothly, but I actually expected to have more constructive points. After completing most of my high fidelity prototype, I feel that I will likely come back and change the current home page design. I am pleased with it, in comparison to the iterations I went through, but I still feel that it feels too simple/juvenile. The museum has an aura of maturity, and the home page needs to look legitimate and authoritative. Currently, it looks a bit plain. Overall, I enjoyed designing the high fidelity protoype and found user testing to be a great experience.
