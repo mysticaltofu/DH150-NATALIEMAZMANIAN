@@ -57,4 +57,4 @@ The site meets accessibility WCAG2.0 AA level requirements:
 
 The screen designs below feature the pages dedicated to Collection Highlights, Collection Categories, Lecture, and Hours and Tickets: 
 
-![screenDesigns](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/HoursAndTickets.png)
+![screenDesigns](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/ScreenDesigns.png)
