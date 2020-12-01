@@ -68,7 +68,7 @@ The screen designs below feature the pages dedicated to Collection Highlights, C
 ![screenDesigns](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/ScreenDesigns.png)
 
 ### Wireflow Diagram
-One image(diagram) with the wireflow with graphic design 
+![WireflowWithGraphics](https://github.com/mysticaltofu/DH150-NATALIEMAZMANIAN/blob/main/WireflowWithGraphics.png)
 
 ### Interactive Prototype
 [Here](https://www.figma.com/proto/OS0a1fEZjVzmyNJ8YxQWeY/AEM-Shared?node-id=6%3A27&viewport=354%2C-776%2C0.35040798783302307&scaling=scale-down) is the interactive prototype.
